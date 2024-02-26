@@ -6,10 +6,9 @@ body, html {
 
 #container {
     display: grid;
-    grid-template-columns: repeat(16, 1fr); /* 16 columns */
     grid-gap: 1px; /* gap between grid items */
-    width: 100vw; /* 100% of viewport width */
-    height: 100vh; /* 100% of viewport height */
+    width: 512px; /* 100% of viewport width */
+    height: 512px; /* 100% of viewport height */
 }
 
 #div {
